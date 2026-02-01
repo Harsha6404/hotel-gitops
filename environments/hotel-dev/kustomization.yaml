@@ -1,4 +1,4 @@
 resources:
-  - ../../apps/sample-app/deployment.yaml
-  - ../../apps/sample-app/service.yaml
+  - sample-app/deployment.yaml
+  - sample-app/service.yaml
 
